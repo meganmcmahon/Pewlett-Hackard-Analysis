@@ -8,7 +8,13 @@ The purpose of this analysis is to identify the titles of the employees that wil
 
 ## Results: 
 
-### Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+- Over 70,000 of the company's 300,000 employees are entering their retirement years.
+
+- Over 50,000 of the positions are senior staff and senior engineers.
+
+- Only 1,549 employees were born in 1965 and qualify for the mentorship program, this program will likely need to be expanded.
+
+- Many of the retiring employees have held multiple positions in the company. A lot of experience is about to be lost, which is why the mentorship program should be expanded while there is still time.
 
 ## Summary: 
 
